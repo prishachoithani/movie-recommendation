@@ -1,5 +1,6 @@
 # main.py
 # This is the central file of the Movie Recommendation System.
+# It controls menu navigation
 from data import movies
 from search import search_movie
 from rating import rate_movie
