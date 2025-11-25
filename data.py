@@ -1,6 +1,7 @@
 # data.py
 
 # MOVIE DATABASE (Title: Genre)
+# Step 1: Create a dictionary containing movie titles and their genres 
 movies = {
     "Inception": "Sci-Fi",
     "Interstellar": "Sci-Fi",
