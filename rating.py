@@ -1,5 +1,8 @@
 # rating.py
 
+#This module allows users to rate movies.
+
+
 from data import movies, ratings
 
 def rate_movie():
