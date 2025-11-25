@@ -1,7 +1,7 @@
 # rating.py
 
 # This module allows users to rate movies.
-#It validates movie names, checks rating ranges, and stores user ratings inside the ratings dictionary.
+# It validates movie names, checks rating ranges, and stores user ratings inside the ratings dictionary.
 
 
 from data import movies, ratings
