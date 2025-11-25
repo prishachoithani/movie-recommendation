@@ -2,7 +2,6 @@
 #This module recommends a movie to the user based on their favourite movie's genre.
 #It uses average ratings as a simple AI/ML logic to select the best recommended film.
 
-
 from data import movies, ratings
 
 def recommend_movie():
