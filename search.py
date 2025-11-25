@@ -1,5 +1,6 @@
 # search.py
 # This module handles searching movies by name. 
+# It compares user input with titles present in the movie database.
 from data import movies
 
 def search_movie():
