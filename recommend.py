@@ -9,7 +9,7 @@ def recommend_movie():
     #Ask user for a movie they like
     fav = input("Enter a movie you like: ").strip()
     
-#Validate if the movie exists in the database
+# Validate if the movie exists in the database
     if fav not in movies:
         print("Movie not found! Try rating or viewing the list first.")
         return #Stop function if movie doesn't exist
