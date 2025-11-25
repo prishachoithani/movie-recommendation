@@ -20,7 +20,7 @@ def recommend_movie():
 # Prepare variables to store the best recommendation
     best_movie = None
     best_rating = -1
-
+# Prepare variables to store the best recommendation
     for movie, genre in movies.items():
         if movie == fav:
             continue
