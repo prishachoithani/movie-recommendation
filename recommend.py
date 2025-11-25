@@ -16,6 +16,7 @@ def recommend_movie():
         
 # Fetch the genre of the user's favourite movie
     fav_genre = movies[fav]
+    
 # Prepare variables to store the best recommendation
     best_movie = None
     best_rating = -1
