@@ -38,3 +38,22 @@ Search a movie using partial input.
 Rate multiple movies.
 
 Try recommendations after rating similar-genre movies.
+
+## Screenshots 
+
+### View All Movies
+<img width="340" height="288" alt="image" src="https://github.com/user-attachments/assets/54e9f03e-fbbb-4e16-8fcd-5bbc83ff287a" />
+### Search Movie
+<img width="303" height="213" alt="image" src="https://github.com/user-attachments/assets/6d72323e-fe58-435b-87d2-71451fe0e179" />
+### Rate a movie
+<img width="314" height="208" alt="image" src="https://github.com/user-attachments/assets/ee44cf32-ae08-449c-9593-f86962fc2449" />
+### Recommend a movie
+<img width="307" height="193" alt="image" src="https://github.com/user-attachments/assets/e1fe73eb-2295-49d9-a5dc-ab9ace3de36d" />
+### Exit
+<img width="283" height="155" alt="image" src="https://github.com/user-attachments/assets/000dad76-d1f3-4dda-a739-18395aca8436" />
+
+
+
+
+
+
