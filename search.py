@@ -11,7 +11,7 @@ def search_movie():
     print()
     for movie in movies:
         if name in movie.lower():
-           # 
+           # If 
             print(f"Found: {movie} ({movies[movie]})")
             found = True
 
