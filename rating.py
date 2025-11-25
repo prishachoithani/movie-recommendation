@@ -7,6 +7,7 @@
 from data import movies, ratings
 
 def rate_movie():
+    #Ask user which movie they want to rate
     movie = input("\nEnter movie name to rate: ").strip()
 
     if movie not in movies:
