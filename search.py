@@ -6,7 +6,7 @@ from data import movies
 def search_movie():
    # Step 2: Ask the user for a movie name (or partial name)
     name = input("\nEnter movie name to search: ").strip().lower()
-    found = False # Boolean flag 
+    found = False # Boolean flag to
 
     print()
     for movie in movies:
