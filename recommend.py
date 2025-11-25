@@ -7,6 +7,7 @@ from data import movies, ratings
 
 def recommend_movie():
     print("\n--- MOVIE RECOMMENDATION ---")
+    #Ask user for a movie they like
     fav = input("Enter a movie you like: ").strip()
 
     if fav not in movies:
