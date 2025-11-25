@@ -1,5 +1,5 @@
 # search.py
-
+# This module handles searching movies by name. 
 from data import movies
 
 def search_movie():
