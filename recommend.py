@@ -1,4 +1,6 @@
 # recommend.py
+#This module recommends a movie to the user based on their favourite movie's genre.
+
 
 from data import movies, ratings
 
