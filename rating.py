@@ -14,6 +14,7 @@ def rate_movie():
         return
 
     try:
+        #Ask user for a rating and convert input to float
         rating = float(input("Enter rating (1 to 5): "))
         if not 1 <= rating <= 5:
             print("Invalid rating! Must be between 1 and 5.")
