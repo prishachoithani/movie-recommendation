@@ -22,7 +22,7 @@ def rate_movie():
             return
 
         ratings[movie].append(rating)
-        #
+        #Confirm 
         print(f"Thanks! You rated {movie} {rating}")
 
     except ValueError:
