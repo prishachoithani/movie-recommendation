@@ -13,6 +13,7 @@ def recommend_movie():
     if fav not in movies:
         print("Movie not found! Try rating or viewing the list first.")
         return #Stop function if movie doesn't exist
+        
 # Fetch the genre of the user's favourite movie
     fav_genre = movies[fav]
 
