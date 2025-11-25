@@ -12,7 +12,7 @@ def recommend_movie():
 #Validate if the movie exists in the database
     if fav not in movies:
         print("Movie not found! Try rating or viewing the list first.")
-        return
+        return #Stop function if movie doesn't exist
 
     fav_genre = movies[fav]
 
