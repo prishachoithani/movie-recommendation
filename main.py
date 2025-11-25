@@ -22,7 +22,8 @@ def main():
         print("3. Rate a Movie")
         print("4. Recommend a Movie")
         print("5. Exit")
-# Get user's menu choice 
+
+        # Get user's menu choice 
         choice = input("Enter choice (1-5): ")
 
         if choice == "1":
