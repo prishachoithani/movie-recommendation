@@ -19,7 +19,7 @@ This project is a modular Python-based Movie Recommendation System that allows u
 ## Steps to Install & Run the Project
 1. Download or clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/prishachoithani/movie-recommendation>
    Navigate to the project folder:
 
 cd movie-recommendation-system
